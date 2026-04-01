@@ -64,11 +64,13 @@
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/ede8ee16-ecf9-4c6f-af03-a8536462dffa" />
 
 
+
 ---
 
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/vilasagaram-saishiva-5b49a397/
+- Certified Directory: https://directory.databrickscertified.com/profile/4b5a1214-e9b1-49ab-95eb-062aa07dacef
 - Email: saishiva.188@gmail.com
 
 <img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/36f53c3a-0aa9-46e6-9699-b9c925efe165" />
